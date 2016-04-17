@@ -6,5 +6,4 @@ from travtest import test_cython
 
 def test_print():
     l = test_cython.get_hello_world(2)
-    #assert tuple(l) == ('Hello World', 'Hello World')
-    assert tuple(l) == ('Hello World', 'Hello Worl')
+    assert tuple(l) == ('Hello World', 'Hello World')
