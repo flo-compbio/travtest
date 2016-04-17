@@ -1,7 +1,7 @@
 Travtest
 ========
 
-|travis-master| |travis-develop|
+Master: |travis-master| Develop: |travis-develop|
 
 This is a dummy package created for the purpose of testing Travis CI.
 
